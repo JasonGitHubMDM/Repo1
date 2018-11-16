@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D874-9340
+
+ Directory of C:\Users\FENGJX\Documents\gitProject
+
+11/16/2018  03:48 PM    <DIR>          .
+11/16/2018  03:48 PM    <DIR>          ..
+11/16/2018  03:48 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  169,650,798,592 bytes free
